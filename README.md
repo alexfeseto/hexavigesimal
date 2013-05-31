@@ -7,7 +7,7 @@ This short JS function converts a Number to "Bijective base-26" - i.e. the numbe
 
 Examples
 =============
-    Number(1).toBijectiveBase26() => "A"
-    Number(26).toBijectiveBase26() => "Z"
-    Number(27).toBijectiveBase26() => "AA"
-    Number(28).toBijectiveBase26() => "AB"
+    Number(1).toBijectiveBase26()  // => "A"
+    Number(26).toBijectiveBase26() // => "Z"
+    Number(27).toBijectiveBase26() // => "AA"
+    Number(28).toBijectiveBase26() // => "AB"
